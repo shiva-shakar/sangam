@@ -1,0 +1,13 @@
+<!DOCYRYPE html>
+<html
+<head>
+<body>
+<title>AWS 28/11 </tile>
+</head>
+<body>
+	<h1> welcome to AWS S3 Class </h1>
+	<h3>Bucket Versioning is Enabled </h3>
+	<h2>Delete Marker </h2>
+</body>
+</html>
+
